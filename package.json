@@ -1,0 +1,10 @@
+{
+  "name": "taco-cat-goat-cheese-pizza-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time multiplayer Taco Cat Goat Cheese Pizza-style card game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0", "socket.io": "^4.8.1" },
+  "engines": { "node": ">=18" }
+}
